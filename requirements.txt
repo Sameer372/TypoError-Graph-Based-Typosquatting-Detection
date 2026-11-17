@@ -1,0 +1,23 @@
+# Core environment
+numpy
+pandas
+requests
+urllib3
+tqdm
+ipython
+
+# Graph learning
+torch
+torch-geometric
+networkx
+
+# String similarity
+python-Levenshtein
+jellyfish
+
+# Machine learning and evaluation
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
